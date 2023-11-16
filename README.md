@@ -1,5 +1,5 @@
-<img align="center" alt="profile header" width="100%" src="./Header.png"/>
-  
+![MasterHead](./profileHeader.png)
+
 <h1 align="center" color="black">Hi 👋, I'm Rahaf AlSaeed</h1>
 <h3 align="center">A passionate full stack developer from Saudi Arabia</h3>
 
