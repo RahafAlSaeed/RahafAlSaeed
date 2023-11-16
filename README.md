@@ -1,5 +1,4 @@
-<img align="center" alt="Coding" width="100%" title="Animation by Daniela Serpa " src="https://miro.medium.com/v2/resize:fit:1050/0*yBvA5CnEX3Sd4aod.gif"/>
-<sup align="right">(Animation by <a class="af nm" href="https://dribbble.com/daniserpa" rel="noopener ugc nofollow" target="_blank">Daniela Serpa</a> )</sup>
+<img align="center" alt="profile header" width="100%" src="./Header.png"/>
   
 <h1 align="center" color="black">Hi 👋, I'm Rahaf AlSaeed</h1>
 <h3 align="center">A passionate full stack developer from Saudi Arabia</h3>
